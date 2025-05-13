@@ -33,8 +33,8 @@ I build **scalable backend systems** and automate cloud deployments. Currently m
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasielKells&layout=compact&theme=radical)](https://github.com/JasielKells)
 
 ## 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelly-osas) │ 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TMKells) │ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelly-osas) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TMKells) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellyosasng@gmail.com)
 
 
