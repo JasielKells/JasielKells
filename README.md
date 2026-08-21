@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kelly Osas!
 
-🚀 **Backend Developer | Cloud & DevOps Learner | ALX Student**
+🚀 **Backend Developer | Cloud & DevOps**
 
 I build **scalable backend systems** and automate cloud deployments. Currently mastering Python, AWS, and DevOps tools to create efficient, high-performance architectures.
 
